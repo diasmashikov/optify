@@ -6,7 +6,7 @@ Optify is a Smart Budgeting Meal Planning Flutter application designed to help u
 ## Table of Contents
 - [Skills used](#skills)
 - [Requirements](#requirements)
-- [Getting Started](#gettingstarted)
+- [Setup](#setup)
 - [Features](#features)
 - [Dependencies](#dependencies)
 - [Demostration](#demonstration)
@@ -37,5 +37,6 @@ Flutter, Dart, UI/UX, SOLID, Clean Code, Design Patterns
 - multi_select_flutter: ^4.0.
 
 ## Demonstration
-![2-2](https://github.com/diasmashikov/optify/assets/50723693/4a72a606-f66e-476e-95de-c860d8919ca1)
-![1-3](https://github.com/diasmashikov/optify/assets/50723693/5b2b6403-0605-43ce-9284-82b49a2705cd)
+<img width="500" src="https://github.com/diasmashikov/optify/assets/50723693/5b2b6403-0605-43ce-9284-82b49a2705cd">
+<img width="500" src="https://github.com/diasmashikov/optify/assets/50723693/4a72a606-f66e-476e-95de-c860d8919ca1">
+
