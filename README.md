@@ -1,16 +1,41 @@
-# optify
+# Smart Budgeting Meal Planning
 
-A new Flutter project.
+## Introduction
+Optify is a Smart Budgeting Meal Planning Flutter application designed to help users plan their meals efficiently while adhering to a budget. It features a user-friendly interface with multiple screens for account management, meal planning, and grocery shopping.
+
+## Table of Contents
+- [Skills used](#skills)
+- [Requirements](#requirements)
+- [Getting Started](#gettingstarted)
+- [Features](#features)
+- [Dependencies](#dependencies)
+- [Demostration](#demonstration)
+
+## Skills
+Flutter, Dart, UI/UX, SOLID, Clean Code, Design Patterns
+
+## Requirements
+- Flutter & Dart installed on your computer
+- VSCode with Flutter & Dart extensions or Android Studio
 
 ## Getting Started
+- Clone the repository https://github.com/diasmashikov/optify.git
+- Make sure Flutter SDK is installed
+- Type in the console in the optify directory
+  - flutter pub get
+  - flutter doctor
+  
+## Features
+- Sign up & Registration Carousel
+- Meal planning and budgeting
+- Account management
+- Recipe generation
+- Grocery list creation
 
-This project is a starting point for a Flutter application.
+## Dependencies
+- table_calendar: ^3.0.2
+- multi_select_flutter: ^4.0.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demonstration
+![2-2](https://github.com/diasmashikov/optify/assets/50723693/4a72a606-f66e-476e-95de-c860d8919ca1)
+![1-3](https://github.com/diasmashikov/optify/assets/50723693/5b2b6403-0605-43ce-9284-82b49a2705cd)
